@@ -1,3 +1,2 @@
 
-place:Bangalore
-
+place:Chennai
